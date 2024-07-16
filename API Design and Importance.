@@ -1,0 +1,30 @@
+TOPIC : How to Create Best API Let's Explore:
+1. Structure of End Points 
+
+  
+2.Funcationality of end points:
+
+CRUD operations and don;t use 
+
+3. Optimiation 
+   pagination 
+  filetering
+
+4.Security
+DDOS aAttak prevent using rate limiting 
+
+CORS
+
+Authentication and Authorization
+5. Caching 
+faster response
+/api/bolgs
+Use Redis becuase hihg throughput and  response faster 
+ check it's available in redis or not if then send it make faster 
+6.Availability
+scaling use
+horizontal scalling
+vertical scaling
+
+
+
